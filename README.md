@@ -2,6 +2,8 @@
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
+## Live demo result by Wikode : https://wikode.github.io/20220207_qr_code_component/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
